@@ -24,7 +24,7 @@ public class LandmarkleApplication {
 	// 		Arrays.sort(beanNames);
 	// 		for (String beanName : beanNames) {
 	// 			System.out.println(beanName);
-	// 		}0
+	// 		}
 	// 	};
 	// }
 
